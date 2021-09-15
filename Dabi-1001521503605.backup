@@ -1,0 +1,28 @@
+{
+    "-1001521503605": {
+        "bot": 1954044423,
+        "hashes": {
+            "info": {
+                "rules": ""
+            },
+            "extra": {},
+            "blacklist": [
+                "bsdk",
+                "bitch",
+                "www.",
+                "http://",
+                "maderchod",
+                "fuck",
+                "https://",
+                "porn",
+                "chuteya",
+                "hentai"
+            ],
+            "disabled": [],
+            "locks": {
+                "locks": {},
+                "restrict": {}
+            }
+        }
+    }
+}
